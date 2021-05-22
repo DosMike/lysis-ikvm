@@ -1,4 +1,4 @@
-LibLysis
+Lysis-IKVM
 =====
 
 This project will build lysis-java as .net library.
