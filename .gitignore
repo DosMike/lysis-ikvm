@@ -1,0 +1,5 @@
+ikvm/**
+lysis-java/**
+lysis-java
+*.jar
+*.dll
