@@ -18,7 +18,7 @@ Process
 Before Running you need to
 
 - Install Visual Studio for C# and Windows Platform Tools (I believe Windows Kits is in here?)
-- Install Java 8 JDK
+- Install Java 8 JDK (I used openJDK, don't know if oracleJDK works for this)
 - Install git (for example git-bash for windows from git-scm)
 - Have a somewhat recent Windows (curl should be in path)
 - Find your Windows Kits directory and
